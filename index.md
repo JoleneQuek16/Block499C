@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Ground spaces of Block 485B
 
-You can use the [editor on GitHub](https://github.com/JoleneQuek16/Block499C/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Block 485B map](https://github.com/JoleneQuek16/jolenequek/blob/master/485B_map.PNG?raw=true)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Front void deck (485B.1)
 
-### Markdown
+<iframe src="https://www.google.com/maps/embed?pb=!4v1544084083964!6m8!1m7!1sCAoSLEFGMVFpcFAwUXUtckRMM3VwY201elVMaTZBVWRKOGtqZ1ZDWmo2a3FXQ2tr!2m2!1d1.3596631921767488!2d103.9561257336546!3f18!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Inner void deck (485B.3)
 
-```markdown
-Syntax highlighted code block
+<iframe src="https://www.google.com/maps/embed?pb=!4v1544068456966!6m8!1m7!1sCAoSLEFGMVFpcE4wSDZfR3RRYXhPZ1VBblpWUklBc2tveEZxRXhQcEcxdHdGQnRy!2m2!1d1.3595439665353741!2d103.95627854013868!3f96!4f0!5f0.7820865974627469" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoleneQuek16/Block499C/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
